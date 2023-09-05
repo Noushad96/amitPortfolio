@@ -34,7 +34,7 @@ const Nav = () => {
   // console.warn("currentPath==>", currentPath);
   return (
     <>
-      <div className="NavBar flex flex-col items-center lg:justify-center gap-y-4 fixed h-max lg:h-fit-content bottom-0 mt-auto lg:right-[2%] z-50 top-0 w-full  lg:w-fit lg:h-screen ">
+      <div className="NavBar flex flex-col items-center lg:justify-center gap-y-4 fixed h-max lg:h-fit-content bottom-0 mt-auto lg:right-[2%] z-30 top-0 w-full  lg:w-fit lg:h-screen ">
         <div
           className="flex w-full flex-row lg:flex-col items-center justify-between lg:justify-center gap-y-10  px-10 sm:px-28 md:px-40 lg:px-[10px] h-[80px] sm:h-[30px] md:h-[50px] lg:h-[60%] py-8 bg-white/10  text-white text - 3xl
  xl:text-xl  lg:rounded-full font-semibold lg:font-thin"
