@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 
 const gallery = () => {
   const galleryData = [
-    { id: 1, category: "logos", path: "/assets/banter-fri.jpg" },
+    // { id: 1, category: "logos", path: "/assets/banter-fri.jpg" },
     { id: 2, category: "logos", path: "/assets/banter-fri1.jpg" },
     { id: 3, category: "logos", path: "/assets/banter-fri2.jpg" },
     { id: 4, category: "Graphic Designing", path: "/assets/banter.jpg" },
